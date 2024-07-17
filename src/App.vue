@@ -10,5 +10,5 @@ import { ref } from "vue"
 import HelloWorld from './components/HelloWorld.vue';
 
 const msg = ref("hi")
-const person = ref("Ahmed")
+const person = ref("John")
 </script>
